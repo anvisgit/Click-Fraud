@@ -50,25 +50,6 @@
 - **ROC**
 - **Confusion Matrix**
 
-##  Model Details
-
-### Random Forest
-- Ensemble of decision trees
-- Works well with non-linear relationships
-
-### XGBoost
-- Gradient boosting framework
-- Handles missing data well
-
-### Neural Network
-- Multi-layer perceptron architecture
-- Complex non-linear patterns
-- For high-dimensional data
-
-### Ensemble
-- Voting classifier combining all three models
-- Reduces variance and bias
-- More robust predictions
 
 ##  TechStack
 
